@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(191, 255, 255);
+    font-family: 'Abril Fatface';
+    text-align: center;
+    color: rgba(255, 94, 35, 0.984);
+}
+
+.title{
+    margin: auto auto;
+    background-color: aliceblue;
+    border: 10px;
+    border-style: groove;
+    border-color: rgb(74, 176, 187);
+    padding: 10px;
+    text-align: center;
+}
+
+.recipe.card{
+    border-style: groove;
+    border-color: black;
+    border-width: 10px;
+    height: auto;
+    width: 800px;
+    margin: 0px auto;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+img{
+    border: 5px;
+    border-style: double;
+    border-color: black;
+    display: inline-block;
+}
+
+.recipe.card .inside{
+    text-align: justify;
+    color: black;
+}
+
+.recipe.recipe.link{
+    display: inline-block;
+    margin: 10px;
+}
+
+.recipe.link p{
+
+}
+
+.recipe.link img{
+    height: 100px;
+    width: 100px;
+}
+
+
+
